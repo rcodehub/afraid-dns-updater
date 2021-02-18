@@ -1,0 +1,3 @@
+#!/bin/bash
+
+curl http://sync.afraid.org/u/INSERT_TOKEN/
