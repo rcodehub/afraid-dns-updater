@@ -9,6 +9,6 @@ Log into your Afraid DNS account and then go to the version 2 dynamic update int
 
 For each of the subdomains you want to update just paste the update URL into the script.
 
-curl http://sync.afraid.org/u/<TOKEN>/
+curl http://sync.afraid.org/u/TOKEN/
   
 Note the trailing slash at the end of the url.  It is required.
