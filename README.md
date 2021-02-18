@@ -12,3 +12,8 @@ For each of the subdomains you want to update just paste the update URL into the
 curl http://sync.afraid.org/u/TOKEN/
   
 Note the trailing slash at the end of the url.  It is required.
+
+Your script will look like this:
+
+#!/bin/bash
+curl -s http://sync.afraid.org/u/YOUR_TOKEN/
